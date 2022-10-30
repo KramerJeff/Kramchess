@@ -1,10 +1,10 @@
 {
-  "name": "Eleventy Duo",
+  "name": "KramChess",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "url": "https://Kramchess.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
+    "name": "Jeffrey Kramer",
+    "email": "kramer.a.jeffrey@gmail.com",
     "twitterHandle": "author_handle"
   },
   "defaultSocialImage": "/images/default-social-image.png",
@@ -33,7 +33,7 @@
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/",
+      "url": "https://twitter.com/J_Kramer",
       "external": true
     }
   ],
