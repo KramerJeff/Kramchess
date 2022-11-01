@@ -1,11 +1,13 @@
 ---
-title: A simple post
-date: '2020-10-18'
-tags: [demo-content, simple-post]
-description: Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse.
+title: The Evans Gambit
+date: 2020-10-18
+tags:
+- openings
+- gambits
+description: Want to have more fun playing the Italian? Play the Evans Gambit!
 permalink: posts/{{ title | slug }}/index.html
----
 
+---
 Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse. Cray ramps microdosing everyday carry bicycle rights
 
 ## How about a `<blockquote>`?
